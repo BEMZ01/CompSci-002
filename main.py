@@ -1,0 +1,1 @@
+print(str(input("First Name\n>>: ")[0]), input("Last Name\n>>>: "))
